@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kap2 upp2.1", "kap2 upp2.1\kap2 upp2.1.csproj", "{CADFB7C6-79D0-4974-B803-6CA6D8D91DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADFB7C6-79D0-4974-B803-6CA6D8D91DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADFB7C6-79D0-4974-B803-6CA6D8D91DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADFB7C6-79D0-4974-B803-6CA6D8D91DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADFB7C6-79D0-4974-B803-6CA6D8D91DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B1B11C9-E391-4CE7-9356-57A9D910C2B7}
+	EndGlobalSection
+EndGlobal
